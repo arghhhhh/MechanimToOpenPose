@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 84b9fb3d20178ae4a926b9a696f51640
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - skeletonLine: {fileID: 12000000, guid: 85ff23489b1399e468f2c6fafe1e63ac, type: 3}
+  - jointPrefab: {fileID: 1496289132072016234, guid: f8b72c9dcc76a73419d70c9905198958,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
