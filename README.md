@@ -1,5 +1,5 @@
 # MechanimToOpenPose-Unity
-Package for generating an OpenPose output from a mechanim humanoid avatar. 
+Assets/Demo for generating an OpenPose render output from a mechanim humanoid avatar. 
 <br><br>
 <img src="https://github.com/user-attachments/assets/89ff44cc-1817-4daf-9fdb-731d594dc079" alt="Sample Image" style="width: 750px;">
 <br>
